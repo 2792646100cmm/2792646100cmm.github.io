@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://2792646100cmm.github.io</id>
+    <title>Gridea</title>
+    <updated>2024-07-28T10:07:26.500Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://2792646100cmm.github.io"/>
+    <link rel="self" href="https://2792646100cmm.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://2792646100cmm.github.io/images/avatar.png</logo>
+    <icon>https://2792646100cmm.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[###这是一个测试文档]]></title>
+        <id>https://2792646100cmm.github.io/post/zhe-shi-yi-ge-ce-shi-wen-dang/</id>
+        <link href="https://2792646100cmm.github.io/post/zhe-shi-yi-ge-ce-shi-wen-dang/">
+        </link>
+        <updated>2024-07-28T09:34:13.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>###这是Gridea的测试文档，记录了第一次配置Gridea<br>
+##测试</p>
+]]></content>
+    </entry>
+</feed>
